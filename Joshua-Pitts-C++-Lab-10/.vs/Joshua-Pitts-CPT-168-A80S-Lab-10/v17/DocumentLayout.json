@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joshp\\source\\repos\\Joshua-Pitts-CPT-168-A80S-Lab-10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51693F37-8B72-4296-90E2-67E71E13B67B}|Joshua-Pitts-CPT-168-A80S-Lab-10.vcxproj|C:\\Users\\joshp\\source\\repos\\Joshua-Pitts-CPT-168-A80S-Lab-10\\Joshua-Pitts-CPT-168-A80S-Lab-10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51693F37-8B72-4296-90E2-67E71E13B67B}|Joshua-Pitts-CPT-168-A80S-Lab-10.vcxproj|solutionrelative:Joshua-Pitts-CPT-168-A80S-Lab-10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Joshua-Pitts-CPT-168-A80S-Lab-10.cpp",
+              "DocumentMoniker": "C:\\Users\\joshp\\source\\repos\\Joshua-Pitts-CPT-168-A80S-Lab-10\\Joshua-Pitts-CPT-168-A80S-Lab-10.cpp",
+              "RelativeDocumentMoniker": "Joshua-Pitts-CPT-168-A80S-Lab-10.cpp",
+              "ToolTip": "C:\\Users\\joshp\\source\\repos\\Joshua-Pitts-CPT-168-A80S-Lab-10\\Joshua-Pitts-CPT-168-A80S-Lab-10.cpp",
+              "RelativeToolTip": "Joshua-Pitts-CPT-168-A80S-Lab-10.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-11-18T18:13:11.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

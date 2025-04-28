@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joshp\\source\\repos\\J-Pitts-Lab-5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69F13A96-1AFF-4DA5-A638-4171A71EFF56}|J-Pitts-Lab-5.csproj|c:\\users\\joshp\\source\\repos\\j-pitts-lab-5\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69F13A96-1AFF-4DA5-A638-4171A71EFF56}|J-Pitts-Lab-5.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F13A96-1AFF-4DA5-A638-4171A71EFF56}|J-Pitts-Lab-5.csproj|c:\\users\\joshp\\source\\repos\\j-pitts-lab-5\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F13A96-1AFF-4DA5-A638-4171A71EFF56}|J-Pitts-Lab-5.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F13A96-1AFF-4DA5-A638-4171A71EFF56}|J-Pitts-Lab-5.csproj|c:\\users\\joshp\\source\\repos\\j-pitts-lab-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F13A96-1AFF-4DA5-A638-4171A71EFF56}|J-Pitts-Lab-5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F13A96-1AFF-4DA5-A638-4171A71EFF56}|J-Pitts-Lab-5.csproj|c:\\users\\joshp\\source\\repos\\j-pitts-lab-5\\data\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F13A96-1AFF-4DA5-A638-4171A71EFF56}|J-Pitts-Lab-5.csproj|solutionrelative:data\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F13A96-1AFF-4DA5-A638-4171A71EFF56}|J-Pitts-Lab-5.csproj|c:\\users\\joshp\\source\\repos\\j-pitts-lab-5\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F13A96-1AFF-4DA5-A638-4171A71EFF56}|J-Pitts-Lab-5.csproj|solutionrelative:controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F13A96-1AFF-4DA5-A638-4171A71EFF56}|J-Pitts-Lab-5.csproj|c:\\users\\joshp\\source\\repos\\j-pitts-lab-5\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69F13A96-1AFF-4DA5-A638-4171A71EFF56}|J-Pitts-Lab-5.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F13A96-1AFF-4DA5-A638-4171A71EFF56}|J-Pitts-Lab-5.csproj|c:\\users\\joshp\\source\\repos\\j-pitts-lab-5\\j-pitts-lab-5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69F13A96-1AFF-4DA5-A638-4171A71EFF56}|J-Pitts-Lab-5.csproj|solutionrelative:j-pitts-lab-5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\joshp\\source\\repos\\J-Pitts-Lab-5\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\joshp\\source\\repos\\J-Pitts-Lab-5\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-06T18:11:08.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\joshp\\source\\repos\\J-Pitts-Lab-5\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\joshp\\source\\repos\\J-Pitts-Lab-5\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "Controllers\\GamesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:38:10.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\joshp\\source\\repos\\J-Pitts-Lab-5\\Data\\GameRepository.cs",
+              "RelativeDocumentMoniker": "Data\\GameRepository.cs",
+              "ToolTip": "C:\\Users\\joshp\\source\\repos\\J-Pitts-Lab-5\\Data\\GameRepository.cs",
+              "RelativeToolTip": "Data\\GameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:27:43.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joshp\\source\\repos\\J-Pitts-Lab-5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\joshp\\source\\repos\\J-Pitts-Lab-5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:53:55.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\joshp\\source\\repos\\J-Pitts-Lab-5\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "C:\\Users\\joshp\\source\\repos\\J-Pitts-Lab-5\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:24:57.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\joshp\\source\\repos\\J-Pitts-Lab-5\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\joshp\\source\\repos\\J-Pitts-Lab-5\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T17:55:23.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "J-Pitts-Lab-5.csproj",
+              "DocumentMoniker": "C:\\Users\\joshp\\source\\repos\\J-Pitts-Lab-5\\J-Pitts-Lab-5.csproj",
+              "RelativeDocumentMoniker": "J-Pitts-Lab-5.csproj",
+              "ToolTip": "C:\\Users\\joshp\\source\\repos\\J-Pitts-Lab-5\\J-Pitts-Lab-5.csproj",
+              "RelativeToolTip": "J-Pitts-Lab-5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-06T17:50:15.228Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

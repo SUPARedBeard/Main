@@ -1,0 +1,116 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GameBoyColor API Frontend</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        .game-list {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Game API</h1>
+
+    <div>
+        <h2>Add a New Game</h2>
+        <form id="add-game-form">
+            <input type="text" id="game-title" placeholder="Game Title" required />
+            <input type="text" id="game-platform" placeholder="Platform" required />
+            <input type="text" id="game-dev" placeholder="Developer" required /> 
+            <input type="number" id="game-release-year" placeholder="Release Year" required />
+            <input type="text" id="game-genre" placeholder="Genre" required />
+            <button type="submit">Add Game</button> 
+        </form>
+    </div>
+
+    <div>
+        <h2>Delete Game</h2>
+        <input type="number" id="game-id-to-delete" placeholder="Enter Game ID to Delete" />
+        <button id="delete-game-button">Delete Game</button>
+    </div>
+
+    <div>
+        <h2>Game List</h2>
+        <ul id="game-list" class="game-list"></ul>
+    </div>
+
+    <script>
+        const apiUrl = "http://localhost:5230/api/games";
+
+        // Fetch all games and display
+        function fetchGames() {
+            fetch(apiUrl)
+                .then(response => response.json())
+                .then(games => {
+                    const gameList = document.getElementById("game-list");
+                    gameList.innerHTML = ""; 
+                    games.forEach(game => {  
+                        const li = document.createElement("li");
+                        li.textContent = `ID: ${game.id}, Title: ${game.title}, Platform: ${game.platform}, Dev: ${game.dev}, Year: ${game.releaseYear}, Genre: ${game.genre}`; // Corrected template literal
+                        gameList.appendChild(li);
+                    });
+                })
+                .catch(error => console.error("Error fetching games:", error));
+        }
+
+        // Handle add game
+        document.getElementById("add-game-form").addEventListener("submit", function (event) {
+            event.preventDefault();
+
+            const title = document.getElementById("game-title").value;
+            const platform = document.getElementById("game-platform").value;
+            const dev = document.getElementById("game-dev").value; // Get the dev (developer) value
+            const releaseYear = parseInt(document.getElementById("game-release-year").value);
+            const genre = document.getElementById("game-genre").value;
+
+            const newGame = {
+                title: title,
+                platform: platform,
+                releaseYear: releaseYear
+            };
+
+            fetch(apiUrl, {  
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify(newGame)
+            })
+                .then(response => response.json())
+                .then(() => {
+                    fetchGames(); // Refresh game list after adding a new game
+                })
+                .catch(error => console.error("Error adding game:", error));
+        });
+
+        // Handle deleting game
+        document.getElementById("delete-game-button").addEventListener("click", function () {
+            const gameId = document.getElementById("game-id-to-delete").value;
+
+            if (!gameId) {
+                alert("Please enter a valid game ID.");
+                return;
+            }
+
+            fetch(`${apiUrl}/${gameId}`, {  
+                method: "DELETE"
+            })
+                .then(() => {
+                    fetchGames();  // Refresh game list after deletion
+                })
+                .catch(error => console.error("Error deleting game:", error));
+        });
+
+        // Initial fetch when the page loads
+        fetchGames();
+    </script>
+
+</body>
+</html>

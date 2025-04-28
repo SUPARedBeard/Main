@@ -1,0 +1,6 @@
+@J_Pitts_Lab_5_HostAddress = http://localhost:5230
+
+GET {{J_Pitts_Lab_5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

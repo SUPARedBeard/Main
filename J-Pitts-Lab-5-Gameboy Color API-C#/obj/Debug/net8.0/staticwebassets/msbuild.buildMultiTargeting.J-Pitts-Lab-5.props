@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\J-Pitts-Lab-5.props" />
+</Project>

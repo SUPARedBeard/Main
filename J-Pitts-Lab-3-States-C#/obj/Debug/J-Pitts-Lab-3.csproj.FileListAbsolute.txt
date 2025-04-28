@@ -1,0 +1,16 @@
+C:\Users\joshp\source\repos\J-Pitts-Lab-3\bin\Debug\StatesDatabase.mdf
+C:\Users\joshp\source\repos\J-Pitts-Lab-3\bin\Debug\StatesDatabase_log.ldf
+C:\Users\joshp\source\repos\J-Pitts-Lab-3\bin\Debug\J-Pitts-Lab-3.exe.config
+C:\Users\joshp\source\repos\J-Pitts-Lab-3\bin\Debug\J-Pitts-Lab-3.exe
+C:\Users\joshp\source\repos\J-Pitts-Lab-3\bin\Debug\J-Pitts-Lab-3.pdb
+C:\Users\joshp\source\repos\J-Pitts-Lab-3\obj\Debug\J-Pitts-Lab-3.csproj.AssemblyReference.cache
+C:\Users\joshp\source\repos\J-Pitts-Lab-3\obj\Debug\J_Pitts_Lab_3.statesLab3.resources
+C:\Users\joshp\source\repos\J-Pitts-Lab-3\obj\Debug\J_Pitts_Lab_3.Properties.Resources.resources
+C:\Users\joshp\source\repos\J-Pitts-Lab-3\obj\Debug\J-Pitts-Lab-3.csproj.GenerateResource.cache
+C:\Users\joshp\source\repos\J-Pitts-Lab-3\obj\Debug\J-Pitts-Lab-3.csproj.CoreCompileInputs.cache
+C:\Users\joshp\source\repos\J-Pitts-Lab-3\obj\Debug\J-Pitts-Lab-3.exe
+C:\Users\joshp\source\repos\J-Pitts-Lab-3\obj\Debug\J-Pitts-Lab-3.pdb
+C:\Users\joshp\source\repos\J-Pitts-Lab-3\bin\Debug\StatesTable.resx
+C:\Users\joshp\source\repos\J-Pitts-Lab-3\bin\Debug\StatesTable.cs
+C:\Users\joshp\source\repos\J-Pitts-Lab-3\bin\Debug\StatesTable.Designer.cs
+C:\Users\joshp\source\repos\J-Pitts-Lab-3\obj\Debug\J_Pitts_Lab_3.stateInfo.resources

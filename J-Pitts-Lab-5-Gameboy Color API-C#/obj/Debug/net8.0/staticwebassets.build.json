@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "CcAjMWvMMpI5XEb94r45xf8QtFKebwHkIGxa8i4/IHw=",
+  "Source": "J-Pitts-Lab-5",
+  "BasePath": "_content/J-Pitts-Lab-5",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "J-Pitts-Lab-5\\wwwroot",
+      "Source": "J-Pitts-Lab-5",
+      "ContentRoot": "C:\\Users\\joshp\\source\\repos\\J-Pitts-Lab-5\\wwwroot\\",
+      "BasePath": "_content/J-Pitts-Lab-5",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\joshp\\source\\repos\\J-Pitts-Lab-5\\wwwroot\\index.html",
+      "SourceId": "J-Pitts-Lab-5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joshp\\source\\repos\\J-Pitts-Lab-5\\wwwroot\\",
+      "BasePath": "_content/J-Pitts-Lab-5",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i021dspspg",
+      "Integrity": "jpL3EcNU0SzVpWyVtB+J9lJA0qlHTZySVONTBthm30k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\joshp\\source\\repos\\J-Pitts-Lab-5\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4240"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jpL3EcNU0SzVpWyVtB+J9lJA0qlHTZySVONTBthm30k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 20:56:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jpL3EcNU0SzVpWyVtB+J9lJA0qlHTZySVONTBthm30k="
+        }
+      ]
+    },
+    {
+      "Route": "index.i021dspspg.html",
+      "AssetFile": "C:\\Users\\joshp\\source\\repos\\J-Pitts-Lab-5\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4240"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jpL3EcNU0SzVpWyVtB+J9lJA0qlHTZySVONTBthm30k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 20:56:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i021dspspg"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jpL3EcNU0SzVpWyVtB+J9lJA0qlHTZySVONTBthm30k="
+        }
+      ]
+    }
+  ]
+}

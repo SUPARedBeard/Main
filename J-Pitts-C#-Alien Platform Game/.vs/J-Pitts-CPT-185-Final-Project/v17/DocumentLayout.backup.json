@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\School Work\\CPT 206\\Portfolio\\J-Pitts-CPT-185-Final-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{100D8627-39A7-4CDB-BBAA-C702E1FCFA35}|J-Pitts-CPT-185-Final-Project.csproj|e:\\school work\\cpt 206\\portfolio\\j-pitts-cpt-185-final-project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100D8627-39A7-4CDB-BBAA-C702E1FCFA35}|J-Pitts-CPT-185-Final-Project.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100D8627-39A7-4CDB-BBAA-C702E1FCFA35}|J-Pitts-CPT-185-Final-Project.csproj|E:\\School Work\\CPT 206\\Portfolio\\J-Pitts-CPT-185-Final-Project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{100D8627-39A7-4CDB-BBAA-C702E1FCFA35}|J-Pitts-CPT-185-Final-Project.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100D8627-39A7-4CDB-BBAA-C702E1FCFA35}|J-Pitts-CPT-185-Final-Project.csproj|E:\\School Work\\CPT 206\\Portfolio\\J-Pitts-CPT-185-Final-Project\\instructionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{100D8627-39A7-4CDB-BBAA-C702E1FCFA35}|J-Pitts-CPT-185-Final-Project.csproj|solutionrelative:instructionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100D8627-39A7-4CDB-BBAA-C702E1FCFA35}|J-Pitts-CPT-185-Final-Project.csproj|E:\\School Work\\CPT 206\\Portfolio\\J-Pitts-CPT-185-Final-Project\\levels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100D8627-39A7-4CDB-BBAA-C702E1FCFA35}|J-Pitts-CPT-185-Final-Project.csproj|solutionrelative:levels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100D8627-39A7-4CDB-BBAA-C702E1FCFA35}|J-Pitts-CPT-185-Final-Project.csproj|E:\\School Work\\CPT 206\\Portfolio\\J-Pitts-CPT-185-Final-Project\\instructionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100D8627-39A7-4CDB-BBAA-C702E1FCFA35}|J-Pitts-CPT-185-Final-Project.csproj|solutionrelative:instructionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\School Work\\CPT 206\\Portfolio\\J-Pitts-CPT-185-Final-Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\School Work\\CPT 206\\Portfolio\\J-Pitts-CPT-185-Final-Project\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:42:24.001Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "instructionForm.cs [Design]",
+              "DocumentMoniker": "E:\\School Work\\CPT 206\\Portfolio\\J-Pitts-CPT-185-Final-Project\\instructionForm.cs",
+              "RelativeDocumentMoniker": "instructionForm.cs",
+              "ToolTip": "C:\\Users\\joshp\\source\\repos\\J-Pitts-CPT-185-Final-Project\\instructionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:52:58.455Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\School Work\\CPT 206\\Portfolio\\J-Pitts-CPT-185-Final-Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\School Work\\CPT 206\\Portfolio\\J-Pitts-CPT-185-Final-Project\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAwwBAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:45:35.066Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "instructionForm.cs",
+              "DocumentMoniker": "E:\\School Work\\CPT 206\\Portfolio\\J-Pitts-CPT-185-Final-Project\\instructionForm.cs",
+              "RelativeDocumentMoniker": "instructionForm.cs",
+              "ToolTip": "E:\\School Work\\CPT 206\\Portfolio\\J-Pitts-CPT-185-Final-Project\\instructionForm.cs",
+              "RelativeToolTip": "instructionForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:58:11.764Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Levels.cs",
+              "DocumentMoniker": "E:\\School Work\\CPT 206\\Portfolio\\J-Pitts-CPT-185-Final-Project\\Levels.cs",
+              "RelativeDocumentMoniker": "Levels.cs",
+              "ToolTip": "E:\\School Work\\CPT 206\\Portfolio\\J-Pitts-CPT-185-Final-Project\\Levels.cs",
+              "RelativeToolTip": "Levels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:19:02.61Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

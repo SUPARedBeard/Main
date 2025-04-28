@@ -1,0 +1,22 @@
+C:\Users\joshp\source\repos\J-Pitts-CPT-185-Final-Project\bin\Debug\J-Pitts-CPT-185-Final-Project.exe.config
+C:\Users\joshp\source\repos\J-Pitts-CPT-185-Final-Project\bin\Debug\J-Pitts-CPT-185-Final-Project.exe
+C:\Users\joshp\source\repos\J-Pitts-CPT-185-Final-Project\bin\Debug\J-Pitts-CPT-185-Final-Project.pdb
+C:\Users\joshp\source\repos\J-Pitts-CPT-185-Final-Project\obj\Debug\J-Pitts-CPT-185-Final-Project.csproj.AssemblyReference.cache
+C:\Users\joshp\source\repos\J-Pitts-CPT-185-Final-Project\obj\Debug\J_Pitts_CPT_185_Final_Project.platformGame.resources
+C:\Users\joshp\source\repos\J-Pitts-CPT-185-Final-Project\obj\Debug\J_Pitts_CPT_185_Final_Project.instructionForm.resources
+C:\Users\joshp\source\repos\J-Pitts-CPT-185-Final-Project\obj\Debug\J_Pitts_CPT_185_Final_Project.Properties.Resources.resources
+C:\Users\joshp\source\repos\J-Pitts-CPT-185-Final-Project\obj\Debug\J-Pitts-CPT-185-Final-Project.csproj.GenerateResource.cache
+C:\Users\joshp\source\repos\J-Pitts-CPT-185-Final-Project\obj\Debug\J-Pitts-CPT-185-Final-Project.csproj.CoreCompileInputs.cache
+C:\Users\joshp\source\repos\J-Pitts-CPT-185-Final-Project\obj\Debug\J-Pitts-CPT-185-Final-Project.exe
+C:\Users\joshp\source\repos\J-Pitts-CPT-185-Final-Project\obj\Debug\J-Pitts-CPT-185-Final-Project.pdb
+E:\School Work\CPT 206\Portfolio\J-Pitts-CPT-185-Final-Project\bin\Debug\J-Pitts-CPT-185-Final-Project.exe.config
+E:\School Work\CPT 206\Portfolio\J-Pitts-CPT-185-Final-Project\bin\Debug\J-Pitts-CPT-185-Final-Project.exe
+E:\School Work\CPT 206\Portfolio\J-Pitts-CPT-185-Final-Project\bin\Debug\J-Pitts-CPT-185-Final-Project.pdb
+E:\School Work\CPT 206\Portfolio\J-Pitts-CPT-185-Final-Project\obj\Debug\J-Pitts-CPT-185-Final-Project.csproj.AssemblyReference.cache
+E:\School Work\CPT 206\Portfolio\J-Pitts-CPT-185-Final-Project\obj\Debug\J_Pitts_CPT_185_Final_Project.platformGame.resources
+E:\School Work\CPT 206\Portfolio\J-Pitts-CPT-185-Final-Project\obj\Debug\J_Pitts_CPT_185_Final_Project.instructionForm.resources
+E:\School Work\CPT 206\Portfolio\J-Pitts-CPT-185-Final-Project\obj\Debug\J_Pitts_CPT_185_Final_Project.Properties.Resources.resources
+E:\School Work\CPT 206\Portfolio\J-Pitts-CPT-185-Final-Project\obj\Debug\J-Pitts-CPT-185-Final-Project.csproj.GenerateResource.cache
+E:\School Work\CPT 206\Portfolio\J-Pitts-CPT-185-Final-Project\obj\Debug\J-Pitts-CPT-185-Final-Project.csproj.CoreCompileInputs.cache
+E:\School Work\CPT 206\Portfolio\J-Pitts-CPT-185-Final-Project\obj\Debug\J-Pitts-CPT-185-Final-Project.exe
+E:\School Work\CPT 206\Portfolio\J-Pitts-CPT-185-Final-Project\obj\Debug\J-Pitts-CPT-185-Final-Project.pdb

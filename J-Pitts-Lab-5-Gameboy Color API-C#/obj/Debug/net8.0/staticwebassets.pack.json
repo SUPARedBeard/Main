@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\joshp\\source\\repos\\J-Pitts-Lab-5\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.J-Pitts-Lab-5.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.J-Pitts-Lab-5.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.J-Pitts-Lab-5.props",
+      "PackagePath": "build\\J-Pitts-Lab-5.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.J-Pitts-Lab-5.props",
+      "PackagePath": "buildMultiTargeting\\J-Pitts-Lab-5.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.J-Pitts-Lab-5.props",
+      "PackagePath": "buildTransitive\\J-Pitts-Lab-5.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

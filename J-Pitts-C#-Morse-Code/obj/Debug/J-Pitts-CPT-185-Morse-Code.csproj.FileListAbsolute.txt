@@ -1,0 +1,10 @@
+C:\Users\joshp\source\repos\J-Pitts-CPT-185-Morse-Code\bin\Debug\J-Pitts-CPT-185-Morse-Code.exe.config
+C:\Users\joshp\source\repos\J-Pitts-CPT-185-Morse-Code\bin\Debug\J-Pitts-CPT-185-Morse-Code.exe
+C:\Users\joshp\source\repos\J-Pitts-CPT-185-Morse-Code\bin\Debug\J-Pitts-CPT-185-Morse-Code.pdb
+C:\Users\joshp\source\repos\J-Pitts-CPT-185-Morse-Code\obj\Debug\J-Pitts-CPT-185-Morse-Code.csproj.AssemblyReference.cache
+C:\Users\joshp\source\repos\J-Pitts-CPT-185-Morse-Code\obj\Debug\J_Pitts_CPT_185_Morse_Code.Properties.Resources.resources
+C:\Users\joshp\source\repos\J-Pitts-CPT-185-Morse-Code\obj\Debug\J-Pitts-CPT-185-Morse-Code.csproj.GenerateResource.cache
+C:\Users\joshp\source\repos\J-Pitts-CPT-185-Morse-Code\obj\Debug\J-Pitts-CPT-185-Morse-Code.csproj.CoreCompileInputs.cache
+C:\Users\joshp\source\repos\J-Pitts-CPT-185-Morse-Code\obj\Debug\J-Pitts-CPT-185-Morse-Code.exe
+C:\Users\joshp\source\repos\J-Pitts-CPT-185-Morse-Code\obj\Debug\J-Pitts-CPT-185-Morse-Code.pdb
+C:\Users\joshp\source\repos\J-Pitts-CPT-185-Morse-Code\obj\Debug\J_Pitts_CPT_185_Morse_Code.morseCode.resources
