@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000">
+
+    <TextView
+        android:id="@+id/poweredByText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Powered by"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:fontFamily="@font/x360"
+        android:layout_marginBottom="16dp" />
+
+    <ImageView
+        android:id="@+id/tmdbLogo"
+        android:layout_width="200dp"
+        android:layout_height="182dp"
+        android:contentDescription="TMDB Logo"
+        android:src="@drawable/tmdb" />
+
+    <TextView
+        android:id="@+id/tmdb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TMDB"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:fontFamily="@font/x360"
+        android:layout_marginBottom="16dp" />
+
+    <ImageView
+        android:id="@+id/rawgLogo"
+        android:layout_width="200dp"
+        android:layout_height="182dp"
+        android:layout_marginBottom="16dp"
+        android:contentDescription="RAWG_logo"
+        android:src="@drawable/rawg" />
+
+    <TextView
+        android:id="@+id/rawg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RAWG"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:fontFamily="@font/x360"
+        android:layout_marginBottom="16dp" />
+
+</LinearLayout>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/gamesButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Game Backlog"
+        android:drawableTop="@drawable/game"
+        android:background="@android:color/transparent"
+        android:drawablePadding="8dp"
+        android:layout_marginBottom="24dp" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/moviesButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Movie Backlog"
+        android:drawableTop="@drawable/movie"
+        android:background="@android:color/transparent"
+        android:drawablePadding="8dp" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab_about"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/about"
+        android:src="@drawable/ic_info"
+        android:layout_margin="16dp"
+        android:backgroundTint="@color/fab_background_color"
+        app:tint="@color/fab_icon_tint"
+        android:layout_gravity="end|bottom" />
+</LinearLayout>

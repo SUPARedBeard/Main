@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/typeSelectFragment">
+
+    <fragment
+        android:id="@+id/typeSelectFragment"
+        android:name="com.jpitts.backlogtracker.fragments.TypeSelectFragment"
+        android:label="Select Type">
+        <action
+            android:id="@+id/action_typeSelectFragment_to_itemListFragment"
+            app:destination="@id/itemListFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/itemListFragment"
+        android:name="com.jpitts.backlogtracker.fragments.ItemListFragment"
+        android:label="Backlog List"
+        tools:layout="@layout/fragment_item">
+        <argument
+            android:name="type"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_itemListFragment_to_itemDetailFragment"
+            app:destination="@id/itemDetailFragment" />
+        <action
+            android:id="@+id/action_itemListFragment_to_movieDetailFragment"
+            app:destination="@id/movieDetailFragment" />
+        <action
+            android:id="@+id/action_itemListFragment_to_itemEditFragment"
+            app:destination="@id/itemEditFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/itemDetailFragment"
+        android:name="com.jpitts.backlogtracker.fragments.ItemDetailFragment"
+        android:label="Item Details">
+        <argument
+            android:name="itemId"
+            app:argType="long" />
+        <action
+            android:id="@+id/action_itemDetailFragment_to_itemEditFragment"
+            app:destination="@id/itemEditFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/itemEditFragment"
+        android:name="com.jpitts.backlogtracker.fragments.ItemEditFragment"
+        android:label="Edit Item">
+        <argument
+            android:name="itemId"
+            app:argType="long"
+            android:defaultValue="-1L" />
+        <argument
+            android:name="type"
+            app:argType="string"
+            android:defaultValue="" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/movieDetailFragment"
+        android:name="com.jpitts.backlogtracker.fragments.MovieDetailFragment"
+        android:label="Movie Details">
+        <argument
+            android:name="itemId"
+            app:argType="long" />
+        <action
+            android:id="@+id/action_movieDetailFragment_to_itemEditFragment"
+            app:destination="@id/itemEditFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="com.jpitts.backlogtracker.fragments.AboutFragment"
+        android:label="About"
+        tools:layout="@layout/fragment_about" />
+
+</navigation>

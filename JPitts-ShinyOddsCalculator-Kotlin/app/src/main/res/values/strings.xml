@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JPitts-ShinyOddsCalculator-2</string>
+
+    <string-array name="shiny_odds_array">
+        <item>Base Odds (1 in 4096)</item>
+        <item>Shiny Charm (1 in 1365)</item>
+        <item>Masuda Method (1 in 683)</item>
+        <item>Masuda + Shiny Charm (1 in 512)</item>
+        <item>Community Day (1 in 25)</item>
+        <item>Custom</item>
+    </string-array>
+</resources>
+

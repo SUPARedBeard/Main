@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Title Input -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="8dp">
+
+            <ImageView
+                android:id="@+id/coverArtImage"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginEnd="12dp"
+                android:scaleType="centerCrop"
+                android:contentDescription="@string/cover_art" />
+
+            <EditText
+                android:id="@+id/titleInput"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:hint="Enter title" />
+        </LinearLayout>
+
+        <!-- Platform input -->
+        <TextView
+            android:id="@+id/platformLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Platform"
+            android:textStyle="bold"
+            android:layout_marginTop="16dp" />
+
+        <EditText
+            android:id="@+id/platformInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter platform" />
+
+        <!-- Streaming Service input -->
+        <TextView
+            android:id="@+id/streamingServiceLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Streaming Service"
+            android:textStyle="bold"
+            android:layout_marginTop="16dp"
+            android:visibility="gone" />
+
+        <EditText
+            android:id="@+id/streamingServiceInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter streaming service or format (e.g., Netflix, DVD, Blu-ray)"
+            android:visibility="gone" />
+
+        <!-- Rating -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Rating"
+            android:textStyle="bold"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="4dp" />
+
+        <RatingBar
+            android:id="@+id/ratingInput"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:numStars="5"
+            android:stepSize="0.5" />
+
+        <Spinner
+            android:id="@+id/statusInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:entries="@array/status_options"
+            />
+
+        <!-- Completed Checkbox -->
+        <CheckBox
+            android:id="@+id/completedCheckbox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Completed"
+            android:layout_marginTop="16dp" />
+
+        <!-- Notes -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Notes"
+            android:textStyle="bold"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="4dp" />
+
+        <EditText
+            android:id="@+id/notesInput"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:gravity="top"
+            android:inputType="textMultiLine"
+            android:hint="Add your notes here"
+            android:background="@android:drawable/edit_text"
+            android:padding="8dp" />
+
+        <!-- Save Button -->
+        <Button
+            android:id="@+id/saveButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Save"
+            android:layout_marginTop="24dp"
+            android:backgroundTint="@color/save_color"/>
+
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:gravity="start">
+
+        <TextView
+            android:id="@+id/titleText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Game Title"
+            android:textStyle="bold"
+            android:textSize="22sp"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:id="@+id/platformText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Platform"
+            android:textSize="16sp"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:id="@+id/streamingServiceTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Streaming Service"
+            android:textSize="16sp"
+            android:layout_marginBottom="8dp"
+            android:visibility="gone" />
+
+        <RatingBar
+            android:id="@+id/ratingBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:numStars="5"
+            android:stepSize="0.5"
+            android:isIndicator="true"
+            style="?android:attr/ratingBarStyleSmall"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:id="@+id/completedStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Completed / In Progress"
+            android:textSize="16sp"
+            android:layout_marginBottom="12dp" />
+
+        <TextView
+            android:id="@+id/notesText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="User notes go here. This can be a multiline block of text to describe the experience, impressions, etc."
+            android:textSize="14sp"
+            android:layout_marginBottom="16dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/editButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Edit"
+                android:backgroundTint="@color/xboxGreen"
+                android:textColor="@color/white"
+                android:layout_marginEnd="8dp" />
+
+            <Button
+                android:id="@+id/shareButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Share"
+                android:backgroundTint="@color/playStationBlue"
+                android:textColor="@color/white"
+                android:layout_marginEnd="8dp" />
+
+            <Button
+                android:id="@+id/deleteButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Delete"
+                android:backgroundTint="@color/nintendoRed"
+                android:textColor="@color/white"/>
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/coverArtImage"
+            android:layout_width="300dp"
+            android:layout_height="400dp"
+            android:scaleType="centerCrop"
+            android:layout_gravity="center"
+            android:layout_marginTop="36dp"
+            android:layout_marginBottom="16dp"
+            android:contentDescription="@string/cover_art" />
+
+    </LinearLayout>
+</ScrollView>

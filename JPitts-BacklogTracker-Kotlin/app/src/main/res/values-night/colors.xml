@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textPrimary">#FFFFFF</color>
+    <color name="textSecondary">#BBBBBB</color>
+
+    <color name="card_border_color">#FFFFFF</color> <!-- white -->
+
+    <color name="fab_icon_tint">#000000</color>
+    <color name="fab_background_color">#ffffff</color>
+
+    <color name="save_color">#ffffff</color>
+</resources>

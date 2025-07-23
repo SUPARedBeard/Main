@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Backlog Tracker</string>
+    <string name="game_backlog">Game Backlog</string>
+    <string name="movie_backlog">Movie Backlog</string>
+    <string name="title_label">Title</string>
+    <string name="platform_label">Platform</string>
+    <string name="streaming_service_label">Streaming Service</string>
+    <string name="status_label">Status</string>
+    <string name="completed">Completed</string>
+    <string name="in_progress">In Progress</string>
+    <string name="notes_label">Notes</string>
+    <string name="save_button">Save</string>
+    <string name="cover_art">Cover art</string>
+    <string name="about">About</string>
+
+    <string-array name="status_options">
+        <item>Not Started</item>
+        <item>In Progress</item>
+    </string-array>
+</resources>
