@@ -1,4 +1,4 @@
-Hi, Im @SUPARedBEard or Josh Pitts for formal settings.<br/> 
+Hi, Im @SUPARedBeard or Josh Pitts for formal settings.<br/> 
 I am an overly enthusiastic tech geek who loves Videos Games, <br/>
 Music, Movies, Building PCs, Modding retro consoles, Soldering tiny electronics, <br/>
 and Skateboarding(I know out of place with everything else). <br/>
